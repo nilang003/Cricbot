@@ -1,1 +1,1 @@
-worker: python3 main.py
+wwb: python3 main.py -p $PORT
