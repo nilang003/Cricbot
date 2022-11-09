@@ -1,1 +1,1 @@
-web: gunicorn main.wsgi
+web: python3 main.py
